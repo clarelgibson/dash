@@ -5,6 +5,10 @@ Data Analysis Starts Here (DASH)
 # Purpose
 To provide an open-source toolbox that enables data analysts to produce consistent, well-documented data analysis projects.
 
+# Contents
+
+1. The data analysis roadmap
+
 # Inspiration
 This project is inspired by some of the online data analysis courses I have taken, including:
 
