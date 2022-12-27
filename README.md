@@ -3,4 +3,4 @@
 Data Analysis Starts Here (DASH)
 
 # Purpose
-To provide an open-source toolbox that enables data analysts to produce consistent, well-documented data analysis projects following the Maven methodology.
+To provide an open-source toolbox that enables data analysts to produce consistent, well-documented data analysis projects following the [Maven](https://mavenanalytics.io/course/thinking-like-an-analyst) methodology.
