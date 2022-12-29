@@ -3,7 +3,7 @@
 ## Set the goals <img src="images/set-the-goals.png" align="right" width="100" style="margin-left:50px;"/>
 
 -   What specific outcomes are you trying to impact?
--   What questions do you want to answer?x§
+-   What questions do you want to answer?
 -   Who are your key stakeholders?
 -   What motivates your stakeholders?
 -   What actions do you want your stakeholders to take after seeing your analysis?
