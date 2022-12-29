@@ -28,3 +28,5 @@ Another common mistake is when analysts fail to translate their analysis into in
 
 ## Iterate
 This is about closing the loop. Once your recommendations have been implemented you need to quantify the impact that you drove from your analysis (in dollars, if possible) and seek new opportunities to continue to develop.
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/juicy-fish" title="juicy_fish">juicy_fish</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.flaticon.com/authors/uniconlabs" title="Uniconlabs">Uniconlabs</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
