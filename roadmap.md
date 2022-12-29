@@ -1,9 +1,12 @@
-# Understand the business case
-Before you start thinking like an **analyst**, you need to think like a **business owner** and [[think business first]]. Put yourself in the business owner's shoes and think about what are the specific outcomes you are trying to impact, who are the key stakeholders and what motivates them, and how your analysis fits into the bigger picture.
+# The data analyst roadmap
 
-So many people skip this step and dive straight into the data. If you don't complete this step you may completely miss the mark and not answer the right questions.
+## Understand the business case
+* What are the specific outcomes we are trying to impact?
+* Who are the key stakeholders?
+* What motivates the stakeholders?
+* How does this analysis fit into the bigger picture?
 
-# Build a measurement plan
+## Build a measurement plan
 [[Measurement planning]] is like a roadmap for success. Defining what a successful outcome looks like for the business, which KPIs align with that outcome and what data do you need to capture, track and optimize those metrics.
 
 # Collect and prepare the data
