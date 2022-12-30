@@ -1,6 +1,6 @@
 # The data analyst roadmap
 
-## Set the goals <img src="images/set-the-goals.png" align="right" width="100" style="margin-left:50px;"/>
+## Set the goals <img src="images/set-the-goals.png" align="left" width="30"/>
 
 -   What specific outcomes are you trying to impact?
 -   What questions do you want to answer?
