@@ -43,7 +43,7 @@ You can use the following channels to get in touch with me about this project:
 -   [Email me](mailto:surreydatagirl@gmail.com) for any questions about the project, or to collaborate with me on making it better.
 -   [GitHub Issues](https://github.com/clarelgibson/dash/issues) for direct feedback, enhancement requests or raising bugs.
 
-DELETE EVERYTHING ABOVE THIS LINE AFTER COPYING THE TEMPLATE TO A NEW REPO
+### DELETE EVERYTHING ABOVE THIS LINE AFTER COPYING THE TEMPLATE TO A NEW REPO
 ---
 # {PROJECT ABBREVIATED NAME} <img src="images/generic-logo.png" align="right" width="200" style="margin-left:50px;"/>
 
