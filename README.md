@@ -50,5 +50,16 @@ You can use the following channels to get in touch with me about this project:
 {Full project name}
 
 # Project Goals
+{State the major goals of the data analysis project in a concise manner. More details can be provided in the Goals section below.}
 
-{State the major goals of the data analysis project in a concise manner. More details can be provided in the wiki.}
+# Documentation
+
+|Topic                                    |Description                                                   |
+|:----------------------------------------|:-------------------------------------------------------------|
+|[Goals]                                  |The project goals                                             |
+
+# Contact
+You can use the following channels to get in touch with me about this project:
+
+-   [Email me](mailto:anon@example.com) for any questions about the project, or to collaborate with me on making it better.
+-   [GitHub Issues](https://github.com/<USERNAME>/<REPO-NAME>/issues) for direct feedback, enhancement requests or raising bugs.
