@@ -51,4 +51,4 @@ You can use the following channels to get in touch with me about this project:
 
 # Project Goals
 
-State the major goals of the data analysis project in a concise manner. More details can be provided in the wiki.
+{State the major goals of the data analysis project in a concise manner. More details can be provided in the wiki.}
