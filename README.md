@@ -56,7 +56,14 @@ You can use the following channels to get in touch with me about this project:
 
 |Topic                                    |Description                                                   |
 |:----------------------------------------|:-------------------------------------------------------------|
-|[Goals]                                  |The project goals                                             |
+|[Objectives](./01-objectives)            |Project goals, business case or general objectives            |
+|[Measurement Plan](./02-measurement-plan)|Definition of success and key performance indicators (KPIs)   |
+|[Source Data](./03-source-data)          |Details of source data required to support analysis           |
+|[Data Prep](./04-data-prep)              |Quality assurance and extract, transform and load (ETL) steps |
+|[EDA](./05-eda)                          |Data profiling and feature engineering                        |
+|[Analysis](./06-analysis)                |Explanatory analyses and visualizations                       |
+|[Insights](./07-insights)                |Data-driven insights and actionable recommendations           |
+|[Optimization](./08-optimization)        |Stress testing of insights, impact assessment, feedback       |
 
 # Contact
 You can use the following channels to get in touch with me about this project:
