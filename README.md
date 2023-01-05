@@ -18,12 +18,10 @@ To get started, you should create a new repository from this template for your o
 Full guidance on creating a new repository from a Github template can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
 ## Customizing the README
-In your new repository, delete everything above the horizontal rule. Replace any text in curly braces (`{}`) with your own.
+In your new repository, delete everything above the horizontal rule. Replace any text in curly braces `{}` with your own.
 
-## Customizing the wiki
-The project wiki is where you will include all documentation to support your data analysis, including the project's goals or the business use case, the intended stakeholders, key performance indicators (KPIs), data sources and data assumptions.
-
-Navigate to the wiki area and complete the information on each page as directed.
+## Customizing the documentation
+The project documentation folders are numbered `01` to `07`. Within each folder are templates that you can customize to support your data analysis, including the project's goals or the business use case, the intended stakeholders, key performance indicators (KPIs), data sources and assumptions, data preparation steps, exploratory data analysis, explanatory analysis, insights and optimizations. Access each folder in turn to customize the documentation to your project.
 
 # Acknowledgements
 This project is inspired by various online data analysis courses and articles, including:
@@ -43,8 +41,7 @@ You can use the following channels to get in touch with me about this project:
 -   [Email me](mailto:surreydatagirl@gmail.com) for any questions about the project, or to collaborate with me on making it better.
 -   [GitHub Issues](https://github.com/clarelgibson/dash/issues) for direct feedback, enhancement requests or raising bugs.
 
-##### DELETE EVERYTHING ABOVE THIS LINE AFTER COPYING THE TEMPLATE TO A NEW REPO
----
+--- <!--- DELETE EVERYTHING ABOVE THIS LINE (INCLUDING THE LINE) AFTER COPYING THE TEMPLATE TO A NEW REPO -->
 # {PROJECT ABBREVIATED NAME} <img src="images/generic-logo.png" align="right" width="200" style="margin-left:50px;"/>
 
 {Full project name}
@@ -53,6 +50,7 @@ You can use the following channels to get in touch with me about this project:
 {State the major goals of the data analysis project in a concise manner. More details can be provided in the Goals section below.}
 
 # Documentation
+Navigate to one of the folders below to view supporting documentation for this project.
 
 |Topic                                    |Description                                                   |
 |:----------------------------------------|:-------------------------------------------------------------|
