@@ -24,10 +24,11 @@ In your new repository, delete everything above the horizontal rule. Replace any
 The project documentation folders are numbered `01` to `07`. Within each folder are templates that you can customize to support your data analysis, including the project's goals or the business use case, the intended stakeholders, key performance indicators (KPIs), data sources and assumptions, data preparation steps, exploratory data analysis, explanatory analysis, insights and optimizations. Access each folder in turn to customize the documentation to your project.
 
 # Acknowledgements
-This project is inspired by various online data analysis courses and articles, including:
+This template is inspired by various online data analysis courses and articles, including:
 
 -   [Thinking Like An Analyst](https://mavenanalytics.io/course/thinking-like-an-analyst) by [Maven Analytics](https://mavenanalytics.io)
 -   [7 Fundamental Steps to Complete a Data Analytics Project](https://blog.dataiku.com/2019/07/04/fundamental-steps-data-project-success) by [Dataiku](https://www.dataiku.com)
+-   [How to create a measurement plan and why you really need one](https://www.freshegg.co.uk/blog/analytics/performance-measurement/how-to-create-a-measurement-plan-and-why-you-really-need-one/)
 
 The icons used in this project were made by the following authors from [Flaticon](www.flaticon.com):
 
@@ -47,21 +48,19 @@ You can use the following channels to get in touch with me about this project:
 {Full project name}
 
 # Project Goals
-{State the major goals of the data analysis project in a concise manner. More details can be provided in the Goals section below.}
+{State the major goals of the data analysis project in a concise manner. More details can be provided in the planning section below.}
 
 # Documentation
 Navigate to one of the folders below to view supporting documentation for this project.
 
 |Topic                                    |Description                                                   |
 |:----------------------------------------|:-------------------------------------------------------------|
-|[Objectives](./01-objectives)            |Project goals, business case or general objectives            |
-|[Measurement Plan](./02-measurement-plan)|Definition of success and key performance indicators (KPIs)   |
-|[Source Data](./03-source-data)          |Details of source data required to support analysis           |
-|[Data Prep](./04-data-prep)              |Quality assurance and extract, transform and load (ETL) steps |
-|[EDA](./05-eda)                          |Data profiling and feature engineering                        |
-|[Analysis](./06-analysis)                |Explanatory analyses and visualizations                       |
-|[Insights](./07-insights)                |Data-driven insights and actionable recommendations           |
-|[Optimization](./08-optimization)        |Stress testing of insights, impact assessment, feedback       |
+|[Plan](./01-plan)                        |Measurement plan, data plan and implementation plan           |
+|[Explore](./02-explore)                  |Data cleaning, profiling, QA, feature engineering, ETL        |
+|[Model](./03-model)                      |Dimensional data modeling                                     |
+|[Deliver](./04-deliver)                  |Visualization of KPIs and insights                            |
+|[Optimize](./05-optimize)                |Stress testing of insights, impact assessment, feedback       |
+|[Resources](./06-resources)              |Data, images, reference materials                             |
 
 # Contact
 You can use the following channels to get in touch with me about this project:

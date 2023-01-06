@@ -1,6 +1,6 @@
 # The data analyst roadmap
 
-## Set the goals <img src="images/set-the-goals.png" align="left" width="50"/>
+## Set the goals <img src="06-resources/images/objectives.png" align="left" width="50"/>
 
 -   What specific outcomes are you trying to impact?
 -   What questions do you want to answer?
@@ -9,7 +9,7 @@
 -   What actions do you want your stakeholders to take after seeing your analysis?
 -   How does your analysis fit into the bigger picture?
 
-## Set the KPIs <img src="images/set-the-kpis.png" align="right" width="100" style="margin-left:50px;"/>
+## Set the KPIs <img src="06-resources/images/measurement-plan.png" align="right" width="100" style="margin-left:50px;"/>
 
 -   What would a successful outcome look like?
 -   Which goals have you already identified?
