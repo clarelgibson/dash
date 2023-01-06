@@ -29,6 +29,7 @@ This template is inspired by various online data analysis courses and articles, 
 -   [Thinking Like An Analyst](https://mavenanalytics.io/course/thinking-like-an-analyst) by [Maven Analytics](https://mavenanalytics.io)
 -   [7 Fundamental Steps to Complete a Data Analytics Project](https://blog.dataiku.com/2019/07/04/fundamental-steps-data-project-success) by [Dataiku](https://www.dataiku.com)
 -   [How to create a measurement plan and why you really need one](https://www.freshegg.co.uk/blog/analytics/performance-measurement/how-to-create-a-measurement-plan-and-why-you-really-need-one/)
+-   [Digital Marketing and Measurement Model](https://www.kaushik.net/avinash/digital-marketing-and-measurement-model/)
 
 The icons used in this project were made by the following authors from [Flaticon](www.flaticon.com):
 
@@ -57,7 +58,7 @@ Navigate to one of the folders below to view supporting documentation for this p
 |Topic                                    |Description                                                   |
 |:----------------------------------------|:-------------------------------------------------------------|
 |[Plan](./01-plan)                        |Measurement plan, data plan and implementation plan           |
-|[Explore](./02-explore)                  |Data cleaning, profiling, QA, feature engineering, ETL        |
+|[Explore](./02-explore)                  |Data cleaning, profiling, enrichment, QA, ETL                 |
 |[Model](./03-model)                      |Dimensional data modeling                                     |
 |[Deliver](./04-deliver)                  |Visualization of KPIs and insights                            |
 |[Optimize](./05-optimize)                |Stress testing of insights, impact assessment, feedback       |
