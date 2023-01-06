@@ -1,4 +1,4 @@
-# DASH <img src="images/dash.png" align="right" width="200" style="margin-left:50px;"/>
+# DASH <img src="./06-resources/images/dash.png" align="right" width="200" style="margin-left:50px;"/>
 
 Data Analysis Starts Here (DASH)
 
@@ -11,7 +11,7 @@ This template repository contains the folder structures and boilerplate document
 ## Create a new repository from this template
 To get started, you should create a new repository from this template for your own data analysis project. You can do this by clicking on **Use this template** above the file list on the main page of this repository, and then choosing **Create a new repository**.
 
-| ![](images/use-this-template-button.png) |
+| ![Screenshot of a menu button indicating Use this template, with a dropdown to select either Create a new repository or Open in a codespace](./06-resources/images/use-this-template-button.png) |
 |:----------------------------------------------------------------------:|
 | *The Use this template button on a Github template repository home page. Image: Github* |
 
@@ -21,7 +21,7 @@ Full guidance on creating a new repository from a Github template can be found [
 In your new repository, delete everything above the horizontal rule. Replace any text in curly braces `{}` with your own.
 
 ## Customizing the documentation
-The project documentation folders are numbered `01` to `07`. Within each folder are templates that you can customize to support your data analysis, including the project's goals or the business use case, the intended stakeholders, key performance indicators (KPIs), data sources and assumptions, data preparation steps, exploratory data analysis, explanatory analysis, insights and optimizations. Access each folder in turn to customize the documentation to your project.
+The project documentation folders are numbered `01` to `06`. Within each folder are templates that you can customize to support your data analysis, including the project's goals or the business use case, the intended stakeholders, key performance indicators (KPIs), data sources and assumptions, data preparation steps, exploratory data analysis, explanatory analysis, insights and optimizations. Access each folder in turn to customize the documentation to your project.
 
 # Acknowledgements
 This template is inspired by various online data analysis courses and articles, including:
@@ -42,8 +42,9 @@ You can use the following channels to get in touch with me about this project:
 -   [Email me](mailto:surreydatagirl@gmail.com) for any questions about the project, or to collaborate with me on making it better.
 -   [GitHub Issues](https://github.com/clarelgibson/dash/issues) for direct feedback, enhancement requests or raising bugs.
 
---- <!--- DELETE EVERYTHING ABOVE THIS LINE (INCLUDING THE LINE) AFTER COPYING THE TEMPLATE TO A NEW REPO -->
-# {PROJECT ABBREVIATED NAME} <img src="images/generic-logo.png" align="right" width="200" style="margin-left:50px;"/>
+---
+<!--- DELETE EVERYTHING ABOVE THIS LINE (INCLUDING THE LINE) AFTER COPYING THE TEMPLATE TO A NEW REPO -->
+# {PROJECT ABBREVIATED NAME} <img src="./06-resources/images/generic-logo.png" align="right" width="200" style="margin-left:50px;"/>
 
 {Full project name}
 
