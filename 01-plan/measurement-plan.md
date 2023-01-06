@@ -1,7 +1,7 @@
 # Measurement Plan <img src="../06-resources/images/measurement-plan.png" align="right" width="200" style="margin-left:50px;"/>
 
 ## Purpose
-{Describe here the purpose of your analysis.
+{Describe here the purpose of your analysis. To help you identify the purpose and business objectives, ask yourself *Why does this project/campaign exist?*
 
 -   **Goals:** Describe the key business or project goals. Goals should be achievable outcomes that are generally broad and longer term (e.g. revenue growth, profit growth, customer retention, customer satisfaction).
 -   **Importance:** Describe how this analysis fits into the overall business/project.
