@@ -28,8 +28,8 @@ This template is inspired by various online data analysis courses and articles, 
 
 -   [Thinking Like An Analyst](https://mavenanalytics.io/course/thinking-like-an-analyst) by [Maven Analytics](https://mavenanalytics.io)
 -   [7 Fundamental Steps to Complete a Data Analytics Project](https://blog.dataiku.com/2019/07/04/fundamental-steps-data-project-success) by [Dataiku](https://www.dataiku.com)
--   [How to create a measurement plan and why you really need one](https://www.freshegg.co.uk/blog/analytics/performance-measurement/how-to-create-a-measurement-plan-and-why-you-really-need-one/)
--   [Digital Marketing and Measurement Model](https://www.kaushik.net/avinash/digital-marketing-and-measurement-model/)
+-   [How to create a measurement plan and why you really need one](https://www.freshegg.co.uk/blog/analytics/performance-measurement/how-to-create-a-measurement-plan-and-why-you-really-need-one/) by [Fresh Egg](https://www.freshegg.co.uk)
+-   [Digital Marketing and Measurement Model](https://www.kaushik.net/avinash/digital-marketing-and-measurement-model/) by [Kaushik](https://www.kaushik.net)
 
 The icons used in this project were made by the following authors from [Flaticon](www.flaticon.com):
 
