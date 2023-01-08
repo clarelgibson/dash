@@ -3,10 +3,10 @@
 Data Analysis Starts Here (DASH)
 
 # Purpose
-To provide an open-source toolbox that enables data analysts to produce consistent, well-documented data analysis projects.
+To provide an open-source toolbox that enables data analysts to produce consistent, well-documented data analysis projects. Template scripts are written in R but could be adapted to Python or any other suitable language for data analysis.
 
 # Getting started
-This template repository contains the folder structures and boilerplate documentation needed to create a data analysis project following the DASH methodology.
+This template repository contains sample data, documentation and analysis as an example of a data analysis project that follows DASH methodology. You can replace the data and customize the template files and scripts to suit your own project.
 
 ## Create a new repository from this template
 To get started, you should create a new repository from this template for your own data analysis project. You can do this by clicking on **Use this template** above the file list on the main page of this repository, and then choosing **Create a new repository**.
@@ -18,7 +18,7 @@ To get started, you should create a new repository from this template for your o
 Full guidance on creating a new repository from a Github template can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
 ## Customizing the README
-In your new repository, delete everything above the horizontal rule. Replace any text in curly braces `{}` with your own.
+In your new repository, delete `README.md`. Rename `sampleREADME.md` to `README.md`. Customize the new `README.md` file as required to fit your own project. Don't forget to customize the contact information at the bottom of the new `README.md` file.
 
 ## Customizing the documentation
 The project documentation folders are numbered `01` to `06`. Within each folder are templates that you can customize to support your data analysis, including the project's goals or the business use case, the intended stakeholders, key performance indicators (KPIs), data sources and assumptions, data preparation steps, exploratory data analysis, explanatory analysis, insights and optimizations. Access each folder in turn to customize the documentation to your project.
@@ -42,30 +42,3 @@ You can use the following channels to get in touch with me about this project:
 
 -   [Email me](mailto:surreydatagirl@gmail.com) for any questions about the project, or to collaborate with me on making it better.
 -   [GitHub Issues](https://github.com/clarelgibson/dash/issues) for direct feedback, enhancement requests or raising bugs.
-
----
-<!--- DELETE EVERYTHING ABOVE THIS LINE (INCLUDING THE LINE) AFTER COPYING THE TEMPLATE TO A NEW REPO -->
-# {PROJECT ABBREVIATED NAME} <img src="./06-resources/images/generic-logo.png" align="right" width="200" style="margin-left:50px;"/>
-
-{Full project name}
-
-# Project Goals
-{State the major goals of the data analysis project in a concise manner. More details can be provided in the planning section below.}
-
-# Documentation
-Navigate to one of the folders below to view supporting documentation for this project.
-
-|Topic                                    |Description                                                   |
-|:----------------------------------------|:-------------------------------------------------------------|
-|[Plan](./01-plan)                        |Measurement plan, data plan and dimensional bus matrix        |
-|[Explore](./02-explore)                  |Data cleaning, profiling, enrichment, QA, ETL                 |
-|[Model](./03-model)                      |Dimensional data modeling                                     |
-|[Deliver](./04-deliver)                  |Visualization of KPIs and insights                            |
-|[Optimize](./05-optimize)                |Stress testing of insights, impact assessment, feedback       |
-|[Resources](./06-resources)              |Data, images, reference materials                             |
-
-# Contact
-You can use the following channels to get in touch with me about this project:
-
--   [Email me](mailto:anon@example.com) for any questions about the project, or to collaborate with me on making it better.
--   [GitHub Issues](https://github.com/<USERNAME>/<REPO-NAME>/issues) for direct feedback, enhancement requests or raising bugs.
