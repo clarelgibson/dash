@@ -57,7 +57,7 @@ Navigate to one of the folders below to view supporting documentation for this p
 
 |Topic                                    |Description                                                   |
 |:----------------------------------------|:-------------------------------------------------------------|
-|[Plan](./01-plan)                        |Measurement plan, data plan and implementation plan           |
+|[Plan](./01-plan)                        |Measurement plan, data plan and dimensional bus matrix        |
 |[Explore](./02-explore)                  |Data cleaning, profiling, enrichment, QA, ETL                 |
 |[Model](./03-model)                      |Dimensional data modeling                                     |
 |[Deliver](./04-deliver)                  |Visualization of KPIs and insights                            |
