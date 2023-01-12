@@ -1,4 +1,4 @@
-# DASH <img src="./06-resources/images/dash.png" align="right" width="200" style="margin-left:50px;"/>
+# DASH <img src="./05-resources/images/dash.png" align="right" width="200" style="margin-left:50px;"/>
 
 Data Analysis Starts Here (DASH)
 
@@ -11,7 +11,7 @@ This template repository contains sample data, documentation and analysis as an 
 ## Create a new repository from this template
 To get started, you should create a new repository from this template for your own data analysis project. You can do this by clicking on **Use this template** above the file list on the main page of this repository, and then choosing **Create a new repository**.
 
-| ![Screenshot of a menu button indicating Use this template, with a dropdown to select either Create a new repository or Open in a codespace](./06-resources/images/use-this-template-button.png) |
+| ![Screenshot of a menu button indicating Use this template, with a dropdown to select either Create a new repository or Open in a codespace](./05-resources/images/use-this-template-button.png) |
 |:----------------------------------------------------------------------:|
 | *The Use this template button on a Github template repository home page. Image: Github* |
 
@@ -21,7 +21,7 @@ Full guidance on creating a new repository from a Github template can be found [
 In your new repository, delete `README.md`. Rename `sampleREADME.md` to `README.md`. Customize the new `README.md` file as required to fit your own project. Don't forget to customize the contact information at the bottom of the new `README.md` file.
 
 ## Customizing the documentation
-The project documentation folders are numbered `01` to `06`. Within each folder are templates that you can customize to support your data analysis, including the project's goals or the business use case, the intended stakeholders, key performance indicators (KPIs), data sources and assumptions, data preparation steps, exploratory data analysis, explanatory analysis, insights and optimizations. Access each folder in turn to customize the documentation to your project.
+The project documentation folders are numbered `01` to `05`. Within each folder are templates that you can customize to support your data analysis, including the project's goals or the business use case, the intended stakeholders, key performance indicators (KPIs), data sources and assumptions, data preparation steps, exploratory data analysis, explanatory analysis, insights and optimizations. Access each folder in turn to customize the documentation to your project.
 
 # Acknowledgements
 This template is inspired by various online data analysis courses and articles, including:

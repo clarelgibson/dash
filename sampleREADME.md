@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analysis <img src="./06-resources/images/generic-logo.png" align="right" width="200" style="margin-left:50px;"/>
+# AdventureWorks Sales Analysis <img src="./05-resources/images/generic-logo.png" align="right" width="200" style="margin-left:50px;"/>
 
 Optimizing sales performance for AdventureWorks Bicycles.
 
@@ -11,11 +11,10 @@ Navigate to one of the folders below to view supporting documentation for this p
 |Topic                                    |Description                                                   |
 |:----------------------------------------|:-------------------------------------------------------------|
 |[Plan](./01-plan)                        |Planning document and supporting Excel file to document the measurement plan, data plan and dimensional bus matrix|
-|[Explore](./02-explore)                  |Data cleaning, profiling, enrichment, QA, ETL                 |
-|[Model](./03-model)                      |Dimensional data modeling                                     |
-|[Deliver](./04-deliver)                  |Visualization of KPIs and insights                            |
-|[Optimize](./05-optimize)                |Stress testing of insights, impact assessment, feedback       |
-|[Resources](./06-resources)              |Data, images, reference materials                             |
+|[Wrangle](./02-wrangle)                  |Scripts to read, clean, model and profile the source data. Includes all QA, ETL and feature engineering steps|
+|[Deliver](./03-deliver)                  |Visualization of KPIs and insights                            |
+|[Optimize](./04-optimize)                |Stress testing of insights, impact assessment, feedback       |
+|[Resources](./05-resources)              |Data, images, reference materials                             |
 
 # Contact
 You can use the following channels to get in touch with me about this project:
