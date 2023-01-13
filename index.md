@@ -17,10 +17,10 @@ The first step is to [create a copy of the template repository](https://github.c
 ## The DASH framework
 The DASH framework is organized around four distinct project phases:
 
-### Planning
+### Planning <img src="assets/img/measurement-plan.png" align="right" width="50" style="margin-left:50px;"/>
 The planning phase...
 
-### Wrangling
+### Wrangling <img src="assets/img/data-plan.png" align="right" width="50" style="margin-left:50px;"/>
 The wrangling phase...
 
 ### Delivering
