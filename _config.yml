@@ -10,3 +10,8 @@ show_downloads: false
 
 # Images
 logo: assets/img/dash.png
+
+# Headers
+header_pages:
+- further.md
+- planning.md
