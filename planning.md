@@ -11,3 +11,5 @@ layout: default
 </p>
 
 When planning a DASH data analysis, always start with the **questions** and not the **data**.
+
+The DASH framework follows a business-first approach to data analysis, rather than a data-first approach.
