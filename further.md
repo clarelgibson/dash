@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./)
+[< Home](./)
 
 # Further Reading
 The following resources have been immensely useful to me, both in preparing the DASH framework and with my data analytics career more generally. I hope that they will help you to expand on some of the ideas presented here.
