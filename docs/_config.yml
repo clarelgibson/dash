@@ -8,5 +8,4 @@ title: Data Analysis Starts Here
 description: An open-source toolkit for reproducible and well-documents data analysis projects.
 
 # Images
-avatar: .docs/assets/img/dash.png
-site.logo: .docs/assets/img/dash.png
+logo: .docs/assets/img/dash.png
