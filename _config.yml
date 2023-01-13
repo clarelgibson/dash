@@ -6,7 +6,7 @@ plugins:
 # Basic Information
 title: Data Analysis Starts Here
 description: An open-source toolkit for reproducible and well-documents data analysis projects.
-show_downloads: true
+show_downloads: false
 
 # Images
 logo: assets/img/dash.png
