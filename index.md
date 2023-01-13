@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to DASH. Data Analysis Starts Here.
 
-<p align="center">ABOUT | <a href="https://github.com/clarelgibson/dash">TEMPLATE</a> | TUTORIAL | <a href="./further.md">FURTHER READING</a></p>
+<p align="center">ABOUT | <a href="https://github.com/clarelgibson/dash">TEMPLATE</a> | TUTORIAL | <a href="further.md">FURTHER READING</a></p>
 
 DASH is a set of collaborative, modular and reproducible techniques for planning, wrangling, delivering and optimizing data analytics projects. DASH combines several methodologies, including the [Maven Analytics](https://www.mavenanalytics.io) [data analysis workflow](https://mavenanalytics.io/course/thinking-like-an-analyst) and the [Business Event Analysis and Modeling (BEAM)](https://modelstorming.com) approach to dimensional modeling, to produce an end-to-end solution for every data analysis or business intelligence project.
 
@@ -17,10 +17,17 @@ The first step is to [create a copy of the template repository](https://github.c
 ## The DASH framework
 The DASH framework is organized around four distinct project phases:
 
-1. Planning
-2. Wrangling
-3. Delivering
-4. Optimizing
+### Planning
+The planning phase...
+
+### Wrangling
+The wrangling phase...
+
+### Delivering
+The delivery phase...
+
+### Optimizing
+The optimizing phase...
 
 ## How to get involved?
 Want to contribute to this project?
