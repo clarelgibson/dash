@@ -3,6 +3,7 @@ layout: default
 ---
 
 [< Home](./)
+[< Tutorial](./tutorial.md)
 
 <p align=center>
     <img src="./assets/img/data-plan.png" width="100"/>
