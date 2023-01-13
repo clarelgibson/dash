@@ -2,10 +2,9 @@
 layout: default
 ---
 
----
-<img src="./assets/img/data-plan.png" align="center" width="100"/>
-<br>
-<br>
+<p align=center>
+    <img src="./assets/img/data-plan.png" width="100"/>
+    <h1 align=center>DASH Planning</h1>
+</p>
 
-# DASH Planning
 When planning a DASH data analysis, always start with the **questions** and not the **data**.
