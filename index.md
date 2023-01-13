@@ -13,3 +13,9 @@ DASH is intended for business and data analysts or teams who are responsible for
 
 ## How to get started?
 The first step is to [create a copy of the template repository](https://github.com/clarelgibson/dash/generate). If you're already familiar with the DASH framework, you can start to customize this template right away. If you're new to DASH, [our tutorial](/tutorial.md) will provide you with all the resources you need.
+
+## How to get involved?
+Want to contribute to this project?
+
+-   [Email me](mailto:surreydatagirl@gmail.com) for any questions about the project, or to collaborate with me on making it better.
+-   [GitHub Issues](https://github.com/clarelgibson/dash/issues) for direct feedback, enhancement requests or raising bugs.

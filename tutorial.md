@@ -18,6 +18,3 @@ The delivery phase...
 
 ### Optimizing
 The optimizing phase...
-
-## How to get involved?
-Want to contribute to this project?
