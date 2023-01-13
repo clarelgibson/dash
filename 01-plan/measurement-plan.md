@@ -1,4 +1,4 @@
-# Measurement Plan <img src="../05-resources/images/measurement-plan.png" align="right" width="200" style="margin-left:50px;"/>
+# Measurement Plan <img src="../assets/img/measurement-plan.png" align="right" width="200" style="margin-left:50px;"/>
 
 ## Purpose
 {Describe here the purpose of your analysis. To help you identify the purpose and business objectives, ask yourself *Why does this project/campaign exist?*
