@@ -1,2 +1,8 @@
 # Build settings
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Descriptors
+title: Data Analysis Starts Here
+description: An open-source toolkit for reproducible and well-documents data analysis projects.
