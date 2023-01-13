@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./)
+[< Home](./)
 
 # The DASH framework
 The DASH framework is organized around four distinct project phases. Click on each phase for the related tutorial.

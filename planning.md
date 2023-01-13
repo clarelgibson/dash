@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[< Home](./)
+
 <p align=center>
     <img src="./assets/img/data-plan.png" width="100"/>
     <h1 align=center>DASH Planning</h1>
