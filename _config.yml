@@ -9,4 +9,4 @@ description: An open-source toolkit for reproducible and well-documents data ana
 show_downloads: true
 
 # Images
-logo: .docs/assets/img/dash.png
+logo: /assets/img/dash.png
