@@ -4,6 +4,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Basic Information
+title:
 description: An open-source toolkit for reproducible and well-documented data analysis projects.
 show_downloads: false
 
