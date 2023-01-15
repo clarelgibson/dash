@@ -9,7 +9,8 @@ description: An open-source toolkit for reproducible and well-documented data an
 show_downloads: false
 
 # Images
-logo: assets/img/dash400.png
+logo: assets/img/dash-icon-500.png
+favicon: assets/img/dash-favicon-50.png
 
 # Headers
 header_pages:
