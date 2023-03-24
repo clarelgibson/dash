@@ -1,4 +1,4 @@
-# DASH <img src="./assets/img/dash.png" align="right" width="200" style="margin-left:50px;"/>
+# DASH <img src="./assets/img/dash-logo-500.png" align="right" width="200" style="margin-left:50px;"/>
 
 Data Analysis Starts Here (DASH)
 
