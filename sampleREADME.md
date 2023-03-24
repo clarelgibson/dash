@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analysis <img src="./05-resources/images/generic-logo.png" align="right" width="200" style="margin-left:50px;"/>
+# AdventureWorks Sales Analysis <img src="./assets/img/generic-logo.png" align="right" width="200" style="margin-left:50px;"/>
 
 Optimizing sales performance for AdventureWorks Bicycles.
 
