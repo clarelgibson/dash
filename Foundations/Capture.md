@@ -1,0 +1,1 @@
+The second stage of the [[The data lifecycle|data lifecycle]]. Collect or bring in [[What is data?|data]] from a variety of different sources.
