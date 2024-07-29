@@ -49,4 +49,4 @@ po/*~
 rsconnect/
 
 # Offline downloads
-offline/
+_offline/
