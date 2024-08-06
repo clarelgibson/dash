@@ -1,6 +1,9 @@
 Created: 25-Jul-2024 07:18
 
-Communicating and interpreting results. In this phase you present the findings of your [[Analyze|analysis]] to decision-makers in the form of a report, presentation or data visualization.
+Communicating and interpreting results. In this phase you present the findings of your [[Analyze|analysis]] to decision-makers.
+### Types of presentation
+* [[Report]]
+* [[Foundations/Dashboard]]
 ## Example
 An organization was experiencing a high turnover rate among new hires. Many employees left the company before the end of their first year on the job. The analysts used the data analysis process to answer the following question: **How can the organization improve the retention rate for new employees?**
 

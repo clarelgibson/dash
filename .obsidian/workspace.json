@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f27ab512465ed39b",
+            "id": "ef19fd9fcf17cc91",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd043edaedacb31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations/Prepare.md",
+                "file": "Foundations/Understanding context.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tools",
+                "query": "context",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations/Prepare.md",
+                "file": "Foundations/Understanding context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations/Prepare.md",
+                "file": "Foundations/Understanding context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations/Prepare.md"
+                "file": "Foundations/Understanding context.md"
               }
             }
           }
@@ -146,43 +156,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f27ab512465ed39b",
+  "active": "fd043edaedacb31e",
   "lastOpenFiles": [
-    "Foundations/Data fairness.md",
-    "Foundations/Think about fairness from beginning to end.md",
-    "Foundations/Prepare.md",
-    "Foundations/Google's Data Analysis Framework.md",
-    "Foundations/Analyze.md",
-    "Foundations/Use oversampling effectively.md",
-    "Foundations/Include self-reported data.md",
-    "Foundations/Identify surrounding factors.md",
-    "Foundations/Consider all of the available data.md",
-    "Foundations/What is data analysis?.md",
-    "Foundations/Business tasks.md",
-    "Foundations/Problem.md",
-    "Foundations/Question.md",
-    "Foundations/Issue.md",
-    "Foundations/Data foundations.md",
-    "Foundations/The data lifecycle.md",
-    "Foundations/Plan.md",
-    "Foundations/Destroy.md",
-    "Foundations/Archive.md",
-    "Foundations/Manage.md",
-    "Foundations/Data ecosystems.md",
-    "Foundations/Data tools.md",
-    "Foundations/Data strategy.md",
+    "Foundations/Data analyst skillsets.md",
+    "_ln/Five Data Analytics Projects for Beginners.md",
+    "_ln/Understanding the data analytics project lifecycle.md",
+    "Foundations/Scope of work.md",
+    "Foundations/Scope.md",
+    "Foundations/Reports.md",
+    "Foundations/Timelines.md",
+    "Foundations/Milestones.md",
+    "Foundations/Deliverables.md",
     "Foundations/Ask.md",
-    "Foundations/Process.md",
-    "Foundations/Stakeholders.md",
-    "_offline/2-1 Learn about data phases and tools.mp4",
-    "_offline/2-1 Learn about data phases and tools.mp4.download/2-1 Learn about data phases and tools.mp4",
-    "_offline/2-1 Learn about data phases and tools.mp4.download",
-    "_offline/1-11 Witness data magic.mp4",
-    "_offline/1-11 Witness data magic.mp4.download/1-11 Witness data magic.mp4",
-    "_offline/1-11 Witness data magic.mp4.download",
-    "_offline/1-10 Data drives successful outcomes.mp4",
-    "_offline/1-10 Data drives successful outcomes.mp4.download/1-10 Data drives successful outcomes.mp4",
-    "_offline/1-10 Data drives successful outcomes.mp4.download",
-    "_offline/1-9 Explore core analytical skills.mp4"
+    "Foundations/Benefits of a scope of work.md",
+    "Foundations/Structured thinking.md",
+    "Foundations/Technical mindset.md",
+    "Foundations/Analytical Thinking.md",
+    "_ln/Dashboard Requirements Gathering Worksheet.md",
+    "Foundations/Problem orientation.md",
+    "Foundations/Problem domain.md",
+    "Foundations/Define the problem.md",
+    "Foundations/Google's Data Analysis Framework.md",
+    "Foundations/Data foundations.md",
+    "Foundations/Destroy.md",
+    "_offline/4.9 Think about your process.mp4",
+    "_offline/4.9 Think about your process.mp4.download/4.9 Think about your process.mp4",
+    "_offline/4.9 Think about your process.mp4.download",
+    "_offline/4.8 The data tradeoff.mp4",
+    "_offline/4.8 The data tradeoff.mp4.download/4.8 The data tradeoff.mp4",
+    "_offline/4.8 The data tradeoff.mp4.download",
+    "_offline/4.7 Sarah how to.mp4",
+    "_offline/4.7 Sarah how to.mp4.download/4.7 Sarah how to.mp4",
+    "_offline/4.7 Sarah how to.mp4.download",
+    "_offline/4.6 Navigate expectations.mp4",
+    "Foundations/The data lifecycle.md",
+    "Foundations/Archive.md",
+    "Foundations/Analyze.md",
+    "Foundations/Manage.md",
+    "Foundations/Capture.md"
   ]
 }

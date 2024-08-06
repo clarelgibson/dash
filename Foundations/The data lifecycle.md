@@ -1,6 +1,6 @@
 Created: 27-Jul-2024 14:05
 
-There are six stages to the data lifecycle:
+The data lifecycle describes the changes that data goes through during its lifetime. There are six stages to the data lifecycle:
 
 1. [[Plan]]
 2. [[Capture]]

@@ -4,8 +4,10 @@ The Ask stage of the [[What is data analysis?|data analysis]] framework consists
 
 * [[Define the problem]], business challenge or objective. The [[Five Whys technique]] can help here.
 * Fully understand [[Stakeholders|stakeholder]] expectations.
-* Decide which [[Common questions for data analysts to ask|questions]] to answer in order to solve the problem.
-* Define ways of working with your stakeholders, including how and when to communicate progress throughout the project, and the expected format for delivering the results.
+* Decide which [[SMART questions|questions]] to answer in order to solve the problem.
+* Define ways of working with your stakeholders through a [[Scope of work]], including how and when to communicate progress throughout the project, and the expected format for delivering the results.
+* Focus on the actual problem and avoid any distractions.
+* Take a step back and see the whole situation in context.
 ## Example
 An organization was experiencing a high turnover rate among new hires. Many employees left the company before the end of their first year on the job. The analysts used the [[Google's Data Analysis Framework|data analysis process]] to answer the following question: **How can the organization improve the retention rate for new employees?**
 

@@ -8,6 +8,6 @@ Google identifies six stages of [[What is data analysis?|data analysis]]:
 5. [[Share]]
 6. [[Act]]
 
-The purpose of this [[Frameworks for data analysis|framework]] is to gain insights that drive informed decision-making. The framework is iterative, meaning that results from each step are the basis for the next step. Steps should not be skipped but you may find that you don't work through them in a linear fashion, and may repeat some of the steps. For example, you may be in the [[Analyze|analyze]] phase and find that your data was pulled from the wrong database, or you may be in the [[Process|process]] phase and discover that your original question doesn't adequately describe the problem.
+The purpose of this [[Frameworks for data analysis|framework]] is to gain insights that drive informed decision-making through [[Structured thinking|structured thinking]]. The framework is iterative, meaning that results from each step are the basis for the next step. Steps should not be skipped but you may find that you don't work through them in a linear fashion, and may repeat some of the steps. For example, you may be in the [[Analyze|analyze]] phase and find that your data was pulled from the wrong database, or you may be in the [[Process|process]] phase and discover that your original question doesn't adequately describe the problem.
 ## References
 1. [[Frameworks for data analysis]]

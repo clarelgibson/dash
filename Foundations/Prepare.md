@@ -1,6 +1,11 @@
 Created: 25-Jul-2024 07:17
 
 Data generation, collection, storage and data management. In this phase you will identify data sources, gather [[What is data?|data]] and verify that it is accurate and useful to answer your [[Ask|questions]].
+
+Use your [[Business tasks|business task]] to decide:
+* What metrics to measure
+* Locate data in your database
+* Create security measures to protect that data
 ## Example
 An organization was experiencing a high turnover rate among new hires. Many employees left the company before the end of their first year on the job. The analysts used the data analysis process to answer the following question: **How can the organization improve the retention rate for new employees?**
 
