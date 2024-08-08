@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations/Understanding context.md",
+                "file": "Ask questions to make data-driven decisions.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations/Understanding context.md",
+                "file": "Ask questions to make data-driven decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations/Understanding context.md",
+                "file": "Ask questions to make data-driven decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations/Understanding context.md"
+                "file": "Ask questions to make data-driven decisions.md"
               }
             }
           }
@@ -158,27 +157,32 @@
   },
   "active": "fd043edaedacb31e",
   "lastOpenFiles": [
-    "Foundations/Data analyst skillsets.md",
+    "Home.md",
+    "Ask questions to make data-driven decisions.md",
+    "Foundations",
+    "_pn/Audience.md",
+    "_pn/Structured thinking.md",
+    "_pn/Google's Data Analysis Framework.md",
+    "_pn/Frameworks for data analysis.md",
+    "_pn/What is data analysis?.md",
+    "_pn/Understanding context.md",
+    "_pn/Data analyst skillsets.md",
     "_ln/Five Data Analytics Projects for Beginners.md",
     "_ln/Understanding the data analytics project lifecycle.md",
-    "Foundations/Scope of work.md",
-    "Foundations/Scope.md",
-    "Foundations/Reports.md",
-    "Foundations/Timelines.md",
-    "Foundations/Milestones.md",
-    "Foundations/Deliverables.md",
-    "Foundations/Ask.md",
-    "Foundations/Benefits of a scope of work.md",
-    "Foundations/Structured thinking.md",
-    "Foundations/Technical mindset.md",
-    "Foundations/Analytical Thinking.md",
+    "_pn/Scope of work.md",
+    "_pn/Scope.md",
+    "_pn/Reports.md",
+    "_pn/Timelines.md",
+    "_pn/Milestones.md",
+    "_pn/Deliverables.md",
+    "_pn/Ask.md",
+    "_pn/Benefits of a scope of work.md",
+    "_pn/Technical mindset.md",
+    "_pn/Analytical Thinking.md",
     "_ln/Dashboard Requirements Gathering Worksheet.md",
-    "Foundations/Problem orientation.md",
-    "Foundations/Problem domain.md",
-    "Foundations/Define the problem.md",
-    "Foundations/Google's Data Analysis Framework.md",
-    "Foundations/Data foundations.md",
-    "Foundations/Destroy.md",
+    "_pn/Problem orientation.md",
+    "_pn/Problem domain.md",
+    "_pn/Define the problem.md",
     "_offline/4.9 Think about your process.mp4",
     "_offline/4.9 Think about your process.mp4.download/4.9 Think about your process.mp4",
     "_offline/4.9 Think about your process.mp4.download",
@@ -187,12 +191,6 @@
     "_offline/4.8 The data tradeoff.mp4.download",
     "_offline/4.7 Sarah how to.mp4",
     "_offline/4.7 Sarah how to.mp4.download/4.7 Sarah how to.mp4",
-    "_offline/4.7 Sarah how to.mp4.download",
-    "_offline/4.6 Navigate expectations.mp4",
-    "Foundations/The data lifecycle.md",
-    "Foundations/Archive.md",
-    "Foundations/Analyze.md",
-    "Foundations/Manage.md",
-    "Foundations/Capture.md"
+    "_offline/4.7 Sarah how to.mp4.download"
   ]
 }
