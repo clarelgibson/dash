@@ -1,5 +1,2 @@
 Created: {{date}} {{time}}
-
-
-## References
-1.
+Skills: #data-analysis

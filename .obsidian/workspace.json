@@ -4,24 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4ced4aa748df5dd8",
+        "id": "928d4a1e7fa3a74e",
         "type": "tabs",
         "children": [
           {
-            "id": "ef19fd9fcf17cc91",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "fd043edaedacb31e",
+            "id": "654c047c974b60da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ask questions to make data-driven decisions.md",
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c01f044dd09eb8c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Reading.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "context",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ask questions to make data-driven decisions.md",
+                "file": "Further Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ask questions to make data-driven decisions.md",
+                "file": "Further Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ask questions to make data-driven decisions.md"
+                "file": "Further Reading.md"
               }
             }
           }
@@ -155,42 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd043edaedacb31e",
+  "active": "c01f044dd09eb8c1",
   "lastOpenFiles": [
     "Home.md",
-    "Ask questions to make data-driven decisions.md",
-    "Foundations",
-    "_pn/Audience.md",
-    "_pn/Structured thinking.md",
-    "_pn/Google's Data Analysis Framework.md",
-    "_pn/Frameworks for data analysis.md",
-    "_pn/What is data analysis?.md",
-    "_pn/Understanding context.md",
-    "_pn/Data analyst skillsets.md",
-    "_ln/Five Data Analytics Projects for Beginners.md",
-    "_ln/Understanding the data analytics project lifecycle.md",
-    "_pn/Scope of work.md",
-    "_pn/Scope.md",
-    "_pn/Reports.md",
-    "_pn/Timelines.md",
-    "_pn/Milestones.md",
-    "_pn/Deliverables.md",
-    "_pn/Ask.md",
-    "_pn/Benefits of a scope of work.md",
-    "_pn/Technical mindset.md",
-    "_pn/Analytical Thinking.md",
-    "_ln/Dashboard Requirements Gathering Worksheet.md",
-    "_pn/Problem orientation.md",
-    "_pn/Problem domain.md",
-    "_pn/Define the problem.md",
+    "README.md",
+    "Further Reading.md",
+    "dash-vault/Further Reading/Understanding the data analytics project lifecycle.md",
+    "dash-vault/Further Reading/Four examples of business analytics in action.md",
+    "dash-vault/Further Reading/Five Data Analytics Projects for Beginners.md",
+    "dash-vault/Further Reading/Data Science and Big Data Analytics.md",
+    "dash-vault/Further Reading/Dashboard Requirements Gathering Worksheet.md",
+    "dash-vault/Further Reading/Big Data Adoption and Planning Considerations.md",
+    "dash-vault/Ask/Ask.md",
+    "dash-vault/Share/Report.md",
+    "dash-vault/Data foundations/Google's Data Analysis Framework.md",
+    "dash-vault/Process/Process.md",
+    "dash-vault/Prepare/Prepare.md",
+    "dash-vault/Data foundations/Business tasks.md",
+    "dash-vault/Analyze/Think about fairness from beginning to end.md",
+    "dash-vault/Share/Share.md",
+    "dash-vault/Analyze/Use oversampling effectively.md",
+    "dash-vault/Analyze/Data fairness.md",
+    "dash-vault/Analyze/Include self-reported data.md",
+    "dash-vault/Analyze/Identify surrounding factors.md",
+    "dash-vault/Data foundations/Data analyst skillsets.md",
+    "dash-vault/Analyze/Consider all of the available data.md",
+    "dash-vault/Data foundations/Data analytics.md",
+    "_pn/History of data analytics.md",
+    "dash-vault/Data foundations/Frameworks for data analysis.md",
+    "dash-vault/Act",
+    "dash-vault/Share",
+    "dash-vault/Analyze",
+    "dash-vault/Process",
+    "dash-vault/Prepare",
+    "dash-vault/Ask",
+    "dash-vault/Data foundations",
+    "dash-vault/Untitled.canvas",
+    "dash-vault",
     "_offline/4.9 Think about your process.mp4",
-    "_offline/4.9 Think about your process.mp4.download/4.9 Think about your process.mp4",
-    "_offline/4.9 Think about your process.mp4.download",
-    "_offline/4.8 The data tradeoff.mp4",
-    "_offline/4.8 The data tradeoff.mp4.download/4.8 The data tradeoff.mp4",
-    "_offline/4.8 The data tradeoff.mp4.download",
-    "_offline/4.7 Sarah how to.mp4",
-    "_offline/4.7 Sarah how to.mp4.download/4.7 Sarah how to.mp4",
-    "_offline/4.7 Sarah how to.mp4.download"
+    "_offline/4.9 Think about your process.mp4.download/4.9 Think about your process.mp4"
   ]
 }
