@@ -5,7 +5,7 @@ Skills: #questioning
 * When the project is complete, what are you expected to deliver to [[Stakeholders|stakeholders]]?
 * Will you collect data for this project? How much? For how long?
 
-Try to be as specific as possible with the deliverables. Use measurable goals and objectives.
+Try to be as specific as possible with the deliverables. Use measurable goals and objectives. It's helpful here to use words *and* visuals to describe what you intend to deliver.
 ### Examples
 * Identify the top 10 issues with traffic congestion within the city limits.
 * Identify the top 3 solutions that are most cost-effective for reducing traffic congestion.

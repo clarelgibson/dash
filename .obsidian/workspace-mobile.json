@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "41cbd980210e1bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "314f4aca95ed91f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82fd004280b0c944",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e01beba1a4a2eee1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "938ef1d5b637c8aa",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ebb18f97eb6d7021",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "af1c4f67f2d96798",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "333b0ee468c73546",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c049cd6baca7f782",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c4dca99ffe010ceb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b3c2b6c460c7fefe",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c2742d4307b12456",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "82fd004280b0c944",
+  "lastOpenFiles": [
+    "dash-vault/Ask/Analytical thinking.md",
+    "dash-vault/Ask/Define the problem.md",
+    "dash-vault/Ask/SMART questions.md",
+    "dash-vault/Ask/Action-oriented.md",
+    "dash-vault/Ask/Ask.md",
+    "dash-vault/Data foundations/Google's Data Analysis Framework.md",
+    "dash-vault/Data foundations/Data.md",
+    "Home.md"
+  ]
+}

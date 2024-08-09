@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c01f044dd09eb8c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Further Reading.md",
+                "file": "dash-vault/Ask/Stakeholders.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Further Reading.md",
+                "file": "dash-vault/Ask/Stakeholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Further Reading.md",
+                "file": "dash-vault/Ask/Stakeholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Further Reading.md"
+                "file": "dash-vault/Ask/Stakeholders.md"
               }
             }
           }
@@ -159,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c01f044dd09eb8c1",
+  "active": "654c047c974b60da",
   "lastOpenFiles": [
+    "dash-vault/Ask/Scope of work.md",
+    "dash-vault/Ask/Deliverables.md",
+    "dash-vault/Ask/Stakeholders.md",
+    "dash-vault/Ask/Define the problem.md",
+    "dash-vault/Ask/Ask.md",
+    "dash-vault/Ask/Data science team.md",
+    "dash-vault/Ask/Customer-facing team.md",
+    "dash-vault/Ask/Executive team.md",
+    "dash-vault/Share/Dashboard design.md",
+    "dash-vault/Share/Dashboard.md",
+    "dash-vault/Share/Share.md",
+    "dash-vault/Share/Report.md",
     "Home.md",
-    "README.md",
     "Further Reading.md",
+    "README.md",
     "dash-vault/Further Reading/Understanding the data analytics project lifecycle.md",
     "dash-vault/Further Reading/Four examples of business analytics in action.md",
     "dash-vault/Further Reading/Five Data Analytics Projects for Beginners.md",
     "dash-vault/Further Reading/Data Science and Big Data Analytics.md",
     "dash-vault/Further Reading/Dashboard Requirements Gathering Worksheet.md",
     "dash-vault/Further Reading/Big Data Adoption and Planning Considerations.md",
-    "dash-vault/Ask/Ask.md",
-    "dash-vault/Share/Report.md",
     "dash-vault/Data foundations/Google's Data Analysis Framework.md",
     "dash-vault/Process/Process.md",
     "dash-vault/Prepare/Prepare.md",
     "dash-vault/Data foundations/Business tasks.md",
     "dash-vault/Analyze/Think about fairness from beginning to end.md",
-    "dash-vault/Share/Share.md",
-    "dash-vault/Analyze/Use oversampling effectively.md",
-    "dash-vault/Analyze/Data fairness.md",
-    "dash-vault/Analyze/Include self-reported data.md",
-    "dash-vault/Analyze/Identify surrounding factors.md",
-    "dash-vault/Data foundations/Data analyst skillsets.md",
-    "dash-vault/Analyze/Consider all of the available data.md",
-    "dash-vault/Data foundations/Data analytics.md",
-    "_pn/History of data analytics.md",
-    "dash-vault/Data foundations/Frameworks for data analysis.md",
     "dash-vault/Act",
     "dash-vault/Share",
     "dash-vault/Analyze",
