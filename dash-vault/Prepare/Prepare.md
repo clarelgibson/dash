@@ -1,9 +1,12 @@
 Created: 25-Jul-2024 07:17
 Skills: #data-preparation
 
-Data generation, collection, storage and data management. In this phase you will identify data sources, gather [[Data|data]] and verify that it is accurate and useful to answer your [[Ask|questions]].
+Data generation, collection, storage and data management. In this phase you will identify [[Data sources|data sources]], gather [[Data|data]] and verify that it is accurate and useful to answer your [[Ask|questions]].
 
 Use your [[Business tasks|business task]] to decide:
+- What [[Data sources|data sources]] to use. Ensure your data sources are relevant to your task.
+- How much data to collect. Will you use a [[Sample|sample]] or a [[Population|population]]?
+- What timeframe will you use?
 * What metrics to measure
 * Locate data in your database
 * Create security measures to protect that data

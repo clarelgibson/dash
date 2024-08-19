@@ -8,7 +8,10 @@ You are free to explore these notes in any order, and each note contains links t
 2. [[Data lifecycle]]
 3. [[Data analyst skillsets]]
 ### Ask
-1. [[Structured thinking]]
-2. [[Analytical thinking]]
-3. [[SMART questions]]
-4. [[Scope of work]]
+1. [[Ask]]
+2. [[Structured thinking]]
+3. [[Analytical thinking]]
+4. [[SMART questions]]
+5. [[Scope of work]]
+## Prepare
+1. [[Prepare]]
