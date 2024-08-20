@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "314f4aca95ed91f5",
+        "id": "220052c69ded39f8",
         "type": "tabs",
         "children": [
           {
-            "id": "82fd004280b0c944",
+            "id": "cec634d67a0d61fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dash-vault/Data foundations/Data.md",
+                "file": "dash-vault/Process/Wide and long data.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Structured",
+            "query": "Transform",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "c049cd6baca7f782",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "dash-vault/Data foundations/Data.md",
+            "file": "dash-vault/Process/Wide and long data.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "dash-vault/Data foundations/Data.md",
+            "file": "dash-vault/Process/Wide and long data.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "dash-vault/Data foundations/Data.md"
+            "file": "dash-vault/Process/Wide and long data.md"
           }
         }
       }
@@ -131,34 +131,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82fd004280b0c944",
+  "active": "cec634d67a0d61fc",
   "lastOpenFiles": [
-    "dash-vault/Data foundations/Big data.md",
+    "dash-vault/Process/Data transformation.md",
+    "dash-vault/Process/Wide and long data.md",
+    "dash-vault/Process/Process.md",
+    "dash-vault/Data foundations/Plan.md",
+    "dash-vault/Prepare/Structured data.md",
+    "dash-vault/Process/Transforming data.md",
     "dash-vault/Data foundations/Data.md",
-    "dash-vault/Data foundations/Quantitative data.md",
-    "dash-vault/Prepare/Data sources.md",
-    "dash-vault/Data foundations/Qualitative data.md",
     "dash-vault/Prepare/Prepare.md",
+    "dash-vault/Prepare/Data sources.md",
+    "Home.md",
+    "dash-vault/Prepare/Physical data model.md",
+    "dash-vault/Prepare/Logical data model.md",
+    "dash-vault/Prepare/Conceptual data model.md",
+    "dash-vault/Prepare/Data model.md",
+    "dash-vault/Data foundations/Unstructured data.md",
+    "dash-vault/Data foundations/Big data.md",
+    "dash-vault/Data foundations/Quantitative data.md",
+    "dash-vault/Data foundations/Qualitative data.md",
     "dash-vault/Prepare/Population.md",
     "dash-vault/Prepare/Sample.md",
     "dash-vault/Prepare/Third party data.md",
     "dash-vault/Prepare/Second party data.md",
     "dash-vault/Prepare/First party data.md",
-    "Home.md",
     "dash-vault/Ask/Ask.md",
     "dash-vault/Data foundations/Google's Data Analysis Framework.md",
     "dash-vault/Ask/SMART questions.md",
-    "dash-vault/Ask/Specific.md",
-    "dash-vault/Ask/Action-oriented.md",
-    "dash-vault/Data foundations/Data analyst skillsets.md",
-    "dash-vault/Data foundations/Data lifecycle.md",
-    "Google's Data Analysis Framework.md",
-    "dash-vault/Analyze/Finding patterns.md",
-    "dash-vault/Data foundations/Data analysis.md",
-    "dash-vault/Share/Report.md",
-    "dash-vault/Ask/Five Whys technique.md",
-    "dash-vault/Ask/Scope.md",
-    "dash-vault/Data foundations/Destroy.md",
     "LICENSE"
   ]
 }

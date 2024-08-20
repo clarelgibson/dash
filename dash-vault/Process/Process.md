@@ -4,7 +4,7 @@ Skills: #data-processing
 Data cleaning and data integrity. This is where you will remove any inconsistencies in the data, such as filling in missing values and changing the data to a format that is easier to work with.
 
 * Cleaning data
-* Transforming data into a more useful format
+* [[Data transformation|Transforming data]] into a more useful format
 * Combining two or more datasets to make information more complete
 * Removing outliers
 * Dealing with missing data

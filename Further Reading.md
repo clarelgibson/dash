@@ -8,3 +8,6 @@ Longer reads on the topics discussed on this vault.
 3. [Understanding the data analytics project lifecycle](http://pingax.com/Data%20Analyst/understanding-data-analytics-project-life-cycle/)
 ## Dashboards
 1. [Dashboard requirements gathering worksheet](https://s3.amazonaws.com/looker-elearning-resources/Requirements+Gathering+Worksheet.pdf)
+## Data modeling
+1. [Comparison of data models](https://www.1keydata.com/datawarehousing/data-modeling-levels.html)
+2. [Three basic data modeling techniques - ERD, UML and data dictionary](https://dataedo.com/blog/basic-data-modeling-techniques)

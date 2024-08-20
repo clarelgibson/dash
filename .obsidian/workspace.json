@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dash-vault/Ask/Stakeholders.md",
+                "file": "dash-vault/Process/Data transformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "prepare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dash-vault/Ask/Stakeholders.md",
+                "file": "dash-vault/Process/Data transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dash-vault/Ask/Stakeholders.md",
+                "file": "dash-vault/Process/Data transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dash-vault/Ask/Stakeholders.md"
+                "file": "dash-vault/Process/Data transformation.md"
               }
             }
           }
@@ -149,9 +148,21 @@
   },
   "active": "654c047c974b60da",
   "lastOpenFiles": [
+    "dash-vault/Process/Wide and long data.md",
+    "Further Reading.md",
+    "dash-vault/Process/Data transformation.md",
+    "dash-vault/Prepare/Physical data model.md",
+    "dash-vault/Prepare/Data model.md",
+    "dash-vault/Prepare/Logical data model.md",
+    "dash-vault/Prepare/Conceptual data model.md",
+    "dash-vault/Prepare/Structured data.md",
+    "dash-vault/Data foundations/Data.md",
+    "dash-vault/Data foundations/Unstructured data.md",
+    "dash-vault/Prepare/Prepare.md",
+    "dash-vault/Prepare/Data sources.md",
+    "dash-vault/Ask/Stakeholders.md",
     "dash-vault/Ask/Scope of work.md",
     "dash-vault/Ask/Deliverables.md",
-    "dash-vault/Ask/Stakeholders.md",
     "dash-vault/Ask/Define the problem.md",
     "dash-vault/Ask/Ask.md",
     "dash-vault/Ask/Data science team.md",
@@ -162,19 +173,7 @@
     "dash-vault/Share/Share.md",
     "dash-vault/Share/Report.md",
     "Home.md",
-    "Further Reading.md",
     "README.md",
-    "dash-vault/Further Reading/Understanding the data analytics project lifecycle.md",
-    "dash-vault/Further Reading/Four examples of business analytics in action.md",
-    "dash-vault/Further Reading/Five Data Analytics Projects for Beginners.md",
-    "dash-vault/Further Reading/Data Science and Big Data Analytics.md",
-    "dash-vault/Further Reading/Dashboard Requirements Gathering Worksheet.md",
-    "dash-vault/Further Reading/Big Data Adoption and Planning Considerations.md",
-    "dash-vault/Data foundations/Google's Data Analysis Framework.md",
-    "dash-vault/Process/Process.md",
-    "dash-vault/Prepare/Prepare.md",
-    "dash-vault/Data foundations/Business tasks.md",
-    "dash-vault/Analyze/Think about fairness from beginning to end.md",
     "dash-vault/Act",
     "dash-vault/Share",
     "dash-vault/Analyze",
