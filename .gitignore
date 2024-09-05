@@ -49,4 +49,5 @@ po/*~
 rsconnect/
 
 # data and temp
-_*/
+_data/
+_images/
