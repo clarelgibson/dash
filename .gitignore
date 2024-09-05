@@ -48,5 +48,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Offline downloads
-_offline/
+# data and temp
+_*/
