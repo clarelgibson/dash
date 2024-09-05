@@ -1,13 +1,14 @@
 Created: 25-Jul-2024 07:17
 Skills: #data-processing
 
-Data cleaning and data integrity. This is where you will remove any inconsistencies in the data, such as filling in missing values and changing the data to a format that is easier to work with.
+[[Data cleaning]] and [[Data integrity|data integrity]]. This is where you will remove any inconsistencies in the data, such as filling in missing values and changing the data to a format that is easier to work with.
 
 * Cleaning data
 * [[Data transformation|Transforming data]] into a more useful format
 * Combining two or more datasets to make information more complete
 * Removing outliers
 * Dealing with missing data
+* Setting [[Data constraints|constraints]] to determine validity
 ## Example
 An organization was experiencing a high turnover rate among new hires. Many employees left the company before the end of their first year on the job. The analysts used the data analysis process to answer the following question: **How can the organization improve the retention rate for new employees?**
 

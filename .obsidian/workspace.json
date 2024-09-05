@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dash-vault/Process/Data transformation.md",
+                "file": "dash-vault/Data foundations/Google's Data Analysis Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dash-vault/Process/Data transformation.md",
+                "file": "dash-vault/Data foundations/Google's Data Analysis Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dash-vault/Process/Data transformation.md",
+                "file": "dash-vault/Data foundations/Google's Data Analysis Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dash-vault/Process/Data transformation.md"
+                "file": "dash-vault/Data foundations/Google's Data Analysis Framework.md"
               }
             }
           }
@@ -148,42 +148,43 @@
   },
   "active": "654c047c974b60da",
   "lastOpenFiles": [
-    "dash-vault/Process/Wide and long data.md",
-    "Further Reading.md",
-    "dash-vault/Process/Data transformation.md",
-    "dash-vault/Prepare/Physical data model.md",
-    "dash-vault/Prepare/Data model.md",
-    "dash-vault/Prepare/Logical data model.md",
-    "dash-vault/Prepare/Conceptual data model.md",
-    "dash-vault/Prepare/Structured data.md",
+    "_data",
+    "untitled folder",
+    "dash-vault/Data foundations/Bad data.md",
+    "dash-vault/Data foundations/Archive.md",
+    "dash-vault/Data foundations/Business tasks.md",
+    "dash-vault/Data foundations/Data lifecycle.md",
     "dash-vault/Data foundations/Data.md",
-    "dash-vault/Data foundations/Unstructured data.md",
-    "dash-vault/Prepare/Prepare.md",
-    "dash-vault/Prepare/Data sources.md",
-    "dash-vault/Ask/Stakeholders.md",
-    "dash-vault/Ask/Scope of work.md",
-    "dash-vault/Ask/Deliverables.md",
-    "dash-vault/Ask/Define the problem.md",
-    "dash-vault/Ask/Ask.md",
-    "dash-vault/Ask/Data science team.md",
-    "dash-vault/Ask/Customer-facing team.md",
-    "dash-vault/Ask/Executive team.md",
-    "dash-vault/Share/Dashboard design.md",
-    "dash-vault/Share/Dashboard.md",
-    "dash-vault/Share/Share.md",
-    "dash-vault/Share/Report.md",
-    "Home.md",
-    "README.md",
+    "dash-vault/Process/Data cleaning.md",
+    "dash-vault/Process/Population.md",
+    "dash-vault/Process/Sampling.md",
+    "dash-vault/Process/Confidence interval.md",
+    "dash-vault/Process/Margin of error.md",
+    "dash-vault/Process/Statistics.md",
+    "dash-vault/Process/Confidence level.md",
+    "dash-vault/Process/Random sampling.md",
+    "dash-vault/Process/Statistical significance.md",
+    "dash-vault/Process/Central limit theorem.md",
+    "dash-vault/Data foundations/Portfolio.md",
+    "dash-vault/Process/Sample size.md",
+    "dash-vault/Process/Statistical power.md",
+    "dash-vault/Prepare/Wide and long data.md",
+    "dash-vault/Process/Data integrity.md",
+    "dash-vault/Process/Data transformation.md",
+    "dash-vault/Process/Data constraints.md",
+    "_images/data-cleaning-decision-tree.png",
+    "_images",
+    "dash-vault/Data foundations/Good data.md",
+    "dash-vault/Prepare/Metadata.md",
+    "dash-vault/Prepare/Consent.md",
+    "_offline/4 Understand bias.mp4",
+    "_offline/3 Biased and unbiased data.mp4",
+    "_offline/index.mp4",
+    "_offline/2 Bias questions.mp4",
+    "_offline/1 Intro to bias.mp4",
+    "_offline/index 2.mp4",
+    "_offline",
     "dash-vault/Act",
-    "dash-vault/Share",
-    "dash-vault/Analyze",
-    "dash-vault/Process",
-    "dash-vault/Prepare",
-    "dash-vault/Ask",
-    "dash-vault/Data foundations",
-    "dash-vault/Untitled.canvas",
-    "dash-vault",
-    "_offline/4.9 Think about your process.mp4",
-    "_offline/4.9 Think about your process.mp4.download/4.9 Think about your process.mp4"
+    "dash-vault/Untitled.canvas"
   ]
 }

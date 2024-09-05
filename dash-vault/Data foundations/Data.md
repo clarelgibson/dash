@@ -10,4 +10,7 @@ Data can be:
 - turned into [[Metrics|metrics]]
 - [[Big data|big data]] or [[Small data|small data]]
 - [[Structured data|structured]] or [[Unstructured data|unstructured]]
+- [[Good data|good]] or [[Bad data|bad]]
+
+[[Metadata]] is data that describes the data itself.
 

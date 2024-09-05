@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "220052c69ded39f8",
+        "id": "3188142b6ae70e96",
         "type": "tabs",
         "children": [
           {
-            "id": "cec634d67a0d61fc",
+            "id": "2e7514fc5d6e1e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dash-vault/Process/Wide and long data.md",
+                "file": "dash-vault/Process/Statistical power.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Transform",
+            "query": "Sample",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "dash-vault/Process/Wide and long data.md",
+            "file": "dash-vault/Process/Statistical power.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "dash-vault/Process/Wide and long data.md",
+            "file": "dash-vault/Process/Statistical power.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "dash-vault/Process/Wide and long data.md"
+            "file": "dash-vault/Process/Statistical power.md"
           }
         }
       }
@@ -131,34 +131,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cec634d67a0d61fc",
+  "active": "2e7514fc5d6e1e18",
   "lastOpenFiles": [
-    "dash-vault/Process/Data transformation.md",
-    "dash-vault/Process/Wide and long data.md",
-    "dash-vault/Process/Process.md",
-    "dash-vault/Data foundations/Plan.md",
-    "dash-vault/Prepare/Structured data.md",
-    "dash-vault/Process/Transforming data.md",
-    "dash-vault/Data foundations/Data.md",
+    "dash-vault/Process/Statistics.md",
+    "dash-vault/Process/Statistical power.md",
+    "dash-vault/Process/Sampling.md",
+    "Further Reading.md",
+    "dash-vault/Process/Confidence interval.md",
+    "dash-vault/Process/Sample size.md",
+    "dash-vault/Process/Statistical significance.md",
+    "dash-vault/Prepare/sample.md",
+    "dash-vault/Process/Confidence level.md",
+    "dash-vault/Process/Random sampling.md",
+    "dash-vault/Process/Margin of error.md",
     "dash-vault/Prepare/Prepare.md",
-    "dash-vault/Prepare/Data sources.md",
-    "Home.md",
-    "dash-vault/Prepare/Physical data model.md",
-    "dash-vault/Prepare/Logical data model.md",
-    "dash-vault/Prepare/Conceptual data model.md",
+    "dash-vault/Data foundations/Portfolio.md",
+    "dash-vault/Process/Central limit theorem.md",
+    "dash-vault/Process/Population.md",
+    "dash-vault/Data foundations/Data analyst skillsets.md",
+    "dash-vault/Analyze/Think about fairness from beginning to end.md",
     "dash-vault/Prepare/Data model.md",
-    "dash-vault/Data foundations/Unstructured data.md",
-    "dash-vault/Data foundations/Big data.md",
-    "dash-vault/Data foundations/Quantitative data.md",
-    "dash-vault/Data foundations/Qualitative data.md",
-    "dash-vault/Prepare/Population.md",
-    "dash-vault/Prepare/Sample.md",
-    "dash-vault/Prepare/Third party data.md",
-    "dash-vault/Prepare/Second party data.md",
-    "dash-vault/Prepare/First party data.md",
-    "dash-vault/Ask/Ask.md",
-    "dash-vault/Data foundations/Google's Data Analysis Framework.md",
-    "dash-vault/Ask/SMART questions.md",
+    "dash-vault/Analyze/bias.md",
+    "dash-vault/Process/Data cleaning.md",
+    "_images/data-cleaning-decision-tree.png",
+    "_images",
+    "dash-vault/Process/Process.md",
+    "dash-vault/Process/Data constraints.md",
+    "dash-vault/Process/Data integrity.md",
+    "dash-vault/Data foundations/Data.md",
+    "Home.md",
+    "dash-vault/Prepare/Privacy.md",
+    "_offline/4 Understand bias.mp4",
+    "_offline/3 Biased and unbiased data.mp4",
+    "_offline/2 Bias questions.mp4",
+    "_offline/1 Intro to bias.mp4",
     "LICENSE"
   ]
 }

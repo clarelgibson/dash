@@ -1,11 +1,11 @@
 Created: 25-Jul-2024 07:17
 Skills: #data-preparation
 
-Data generation, collection, storage and data management. In this phase you will identify [[Data sources|data sources]], gather [[Data|data]] and verify that it is accurate and useful to answer your [[Ask|questions]].
+Data generation, collection, storage and data management in accordance with [[Data ethics|data ethics]]. In this phase you will identify [[Data sources|data sources]], gather [[Data|data]] and verify that it is accurate and useful to answer your [[Ask|questions]]. You may use some [[Statistics|statistics]] when working with sample data.
 
 Use your [[Business tasks|business task]] to decide:
 - What [[Data sources|data sources]] to use. Ensure your data sources are relevant to your task.
-- How much data to collect. Will you use a [[Sample|sample]] or a [[Population|population]]?
+- How much data to collect. Will you use a [[Sampling|sample]] or a [[Population|population]]?
 - What timeframe will you use?
 * What metrics to measure
 * Locate data in your database
@@ -18,3 +18,4 @@ The team built a timeline of three months and decided on ways of working to rela
 * They developed specific questions to ask about employee satisfaction with different processes, such as hiring and onboarding, and overall compensation.
 * They established rules for who would have access to the data. For example, they decided that only those people within the analysis group would have access to the raw data, and anyone outside the group could access aggregated data.
 * They decided on what specific information would be gathered and how best to present the data visually. This included identifying possible project-related issues and how to avoid them.
+

@@ -1,7 +1,7 @@
 Created: 23-Jul-2024 19:07
 Skills: #analytical-thinking #questioning #structured-thinking
 
-Data analysts possess numerous skills:
+Data analysts possess numerous skills. You can use your [[Portfolio|portfolio]] to showcase your skills.
 * **Curiosity:** Asking the right questions. The quality of wanting to learn something, and to seek out new challenges and experiences. Curiosity is expressed when data analysts [[SMART questions|ask lots of questions]].
 * **Context:** The analytical skill that has to do with how you group things into categories. Context refers to the conditions and circumstances that give meaning to the data. Data has little value if it is not paired with context.
 * [[Analytical thinking]]

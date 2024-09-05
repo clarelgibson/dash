@@ -4,9 +4,10 @@ Welcome to DASH (Data Analysis Starts Here), where you can learn more about data
 
 You are free to explore these notes in any order, and each note contains links to related topics. If you're new to the world of data analytics, the following notes are a good place to start:
 ### Data Foundations
-1. [[Google's Data Analysis Framework]]
-2. [[Data lifecycle]]
-3. [[Data analyst skillsets]]
+1. [[Data]]
+2. [[Google's Data Analysis Framework]]
+3. [[Data lifecycle]]
+4. [[Data analyst skillsets]]
 ### Ask
 1. [[Ask]]
 2. [[Structured thinking]]
@@ -15,3 +16,6 @@ You are free to explore these notes in any order, and each note contains links t
 5. [[Scope of work]]
 ## Prepare
 1. [[Prepare]]
+2. [[Data sources]]
+3. [[Data model]]
+4. [[Data ethics]]
